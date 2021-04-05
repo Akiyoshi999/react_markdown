@@ -14,7 +14,7 @@ const StyleButton = styled.button`
   &.cancel {
       background: white;
       border: 1px solid gray;
-      color; gray;
+      color: gray;
   }
 `
 
