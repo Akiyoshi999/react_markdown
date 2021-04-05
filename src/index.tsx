@@ -10,6 +10,7 @@ import {
 import { Editor } from './pages/editor'
 import { History} from './pages/history'
 
+
 const GlobalStyle = createGlobalStyle`
     body * {
         box-sizing: border-box;
